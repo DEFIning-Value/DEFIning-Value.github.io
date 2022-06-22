@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "DEFIning Value"
 title_separator          : "-"
-subtitle                 : "Fundamental Analysis On All Things Defi
+subtitle                 : "Fundamental Analysis On All Things Defi"
 name                     : 
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -102,7 +102,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+Site Author
 author:
   name             : "@DEFIning_Value on Twitter"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
